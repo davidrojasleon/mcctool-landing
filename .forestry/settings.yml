@@ -19,6 +19,10 @@ sections:
   exclude: "*README.md"
   new_doc_ext: md
 - type: document
+  path: documentation
+  label: Documentation
+  match: "**/*"
+- type: document
   path: _config.yml
   label: Config
 upload_dir: uploads
