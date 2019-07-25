@@ -21,7 +21,6 @@ sections:
 - type: document
   path: documentation
   label: Documentation
-  match: "**/*"
 - type: document
   path: _config.yml
   label: Config
