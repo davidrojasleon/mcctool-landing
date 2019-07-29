@@ -12,8 +12,6 @@ page_sections:
   - link: "#"
     link_text: Features
   - link: "#"
-    link_text: Pricing
-  - link: "#"
     link_text: Team
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
@@ -32,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2019/07/29/apple-blue-background-close-up-1353366.jpg"
+  background_image: "/uploads/2019/07/29/HOME.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
