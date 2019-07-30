@@ -34,8 +34,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
+  headline: <strong>Requirements<span class="light"> </span></strong><span class="light">for
+    the tool</span>
   content: This package is built to run on Python 3.6.7.You will need the following
     additional libraries
   media:
