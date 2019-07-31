@@ -18,11 +18,11 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: MCC TOOL<br><strong>for analytics</strong>
-  content: The MCC Tool is a library of python tools designed to help health system
-    administrators, population health strategists, and health services researchers
-    explore patterms of co-morbidity and cost among patients with multiple chronic
-    conditions.
+  headline: Multi Chronic Conditions TOOL<br><strong>for analytics</strong>
+  content: The Multi Chronic Conditions Tool is a library of python tools designed
+    to help health system administrators, population health strategists, and health
+    services researchers explore patterms of co-morbidity and cost among patients
+    with multiple chronic conditions.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
