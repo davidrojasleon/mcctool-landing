@@ -44,6 +44,15 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: Getting<strong> Started</strong>
+  content: If you have git you can$ git clone <a href="https://github.com/usnish/MCC_cluster_tool.git"
+    title="https://github.com/usnish/MCC_cluster_tool.git">https://github.com/usnish/MCC_cluster_tool.git</a>
+  media:
+    image: "/uploads/2019/08/05/packet.png"
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
   headline: "<strong>USAGE </strong>/ FAQ"
   content: "<strong>Introduction to Clusters:<br></strong>What is a cluster? Why utilize
     clusters?<br><br><strong>Generating Clusters:<br></strong>Ut enim ad minim veniam,
@@ -93,15 +102,6 @@ page_sections:
       be distributed under different terms and without source code for the larger
       work.<br><br>Read the full text of the MCCTool license <a href="https://github.com/usnish/MCC_cluster_tool/blob/master/LICENSE"><span
       style="text-decoration: underline;">here</span></a>.'
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Getting<strong> Started</strong>
-  content: If you have git you can$ git clone <a href="https://github.com/usnish/MCC_cluster_tool.git"
-    title="https://github.com/usnish/MCC_cluster_tool.git">https://github.com/usnish/MCC_cluster_tool.git</a>
-  media:
-    image: "/uploads/2019/08/05/packet.png"
-    alt_text: ''
 - template: 4-column-footer
   block: footer-2
   col_2: <img src="/uploads/2019/08/05/teva-1.png">
