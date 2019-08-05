@@ -28,7 +28,7 @@ page_sections:
     url: https://github.com/usnish/MCC_cluster_tool
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2019/08/05/home-1.png"
+    image: "/uploads/2019/08/05/home-2.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
