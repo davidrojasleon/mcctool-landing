@@ -91,9 +91,9 @@ page_sections:
     the full text of the MCCTool license <a href="https://github.com/usnish/MCC_cluster_tool/blob/master/LICENSE">here</a>.</p>'
 - template: 4-column-footer
   block: footer-2
-  col_2: TEVA
+  col_2: <img src="/uploads/2019/08/05/teva.png">
   col_3: AIGH<img src="/uploads/2019/08/05/AIGH-logo-twitter-01.png">
-  image: "/uploads/2019/08/05/AIGH-logo-twitter-01.png"
+  image: "/uploads/2019/07/29/LOGO-TEMP.png"
   col_4: ''
 
 ---
