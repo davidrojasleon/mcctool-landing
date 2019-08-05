@@ -73,22 +73,6 @@ page_sections:
     title="https://github.com/usnish/MCC_cluster_tool">https://github.com/usnish/MCC_cluster_tool</a></p><p><br></p><p><strong>Getting
     Started</strong></p><p>If you have git you can</p><table><tbody><tr><td>$ git
     clone <a href="https://github.com/usnish/MCC_cluster_tool" title="https://github.com/usnish/MCC_cluster_tool">https://github.com/usnish/MCC_cluster_tool.git</a></td></tr></tbody></table>'
-- template: 1-column-text
-  block: one-column-1
-  content: 'This code is available for free use under the terms of the <a href="https://www.gnu.org/licenses/lgpl-3.0.en.html"><span
-    style="text-decoration: underline;">GNU LGPLv3.</span></a>Per Github: Permissions
-    of this copyleft license are conditioned on making available complete source code
-    of licensed works and modifications under the same license or the GNU GPLv3. Copyright
-    and license notices must be preserved. Contributors provide an express grant of
-    patent rights. However, a larger work using the licensed work through interfaces
-    provided by the licensed work may be distributed under different terms and without
-    source code for the larger work.<br><br>Read the full text of the MCCTool license
-    <a href="https://github.com/usnish/MCC_cluster_tool/blob/master/LICENSE"><span
-    style="text-decoration: underline;">here</span></a>.<br><br>'
-  headline: License
-- template: simple-footer
-  block: footer-1
-  content: Hello world! ❤︎
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -100,6 +84,15 @@ page_sections:
   media:
     image: "/uploads/2019/07/29/apple-blue-background-close-up-1353366.jpg"
     alt_text: ''
+- template: simple-footer
+  block: footer-1
+  content: Hello world! ❤︎
+- template: 4-column-footer
+  block: footer-2
+  col_2: TEVA
+  col_3: AIGH
+  image: ''
+  col_4: ''
 
 ---
 foo bar
