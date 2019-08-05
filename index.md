@@ -89,14 +89,11 @@ page_sections:
     using the licensed work through interfaces provided by the licensed work may be
     distributed under different terms and without source code for the larger work.</p><p>Read
     the full text of the MCCTool license <a href="https://github.com/usnish/MCC_cluster_tool/blob/master/LICENSE">here</a>.</p>'
-- template: simple-footer
-  block: footer-1
-  content: Hello world! ❤︎
 - template: 4-column-footer
   block: footer-2
   col_2: TEVA
   col_3: AIGH
-  image: ''
+  image: "/uploads/2019/08/05/AIGH-logo-twitter-01.png"
   col_4: ''
 - template: 2-column-text
   block: two-column-1
