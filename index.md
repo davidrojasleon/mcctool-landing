@@ -66,7 +66,7 @@ page_sections:
     alt_text: ''
   headline: this is
   content: a test
-  background_image: "/uploads/2019/07/29/apple-blue-background-close-up-1353366.jpg"
+  background_image: "/uploads/2019/08/05/bg-2.png"
   cta:
     enabled: false
     url: ''
