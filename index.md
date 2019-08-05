@@ -78,25 +78,6 @@ page_sections:
     alt_text: FAQ
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  headline: "<strong>Troubleshooting</strong>"
-  content: 'If you are having problems or have found a bug in the code, please raise
-    an issue on the Github page here: <a href="https://github.com/usnish/MCC_cluster_tool/issues"
-    title="https://github.com/usnish/MCC_cluster_tool/issues"><span style="text-decoration:
-    underline;">https://github.com/usnish/MCC_cluster_tool/issues</span></a>'
-  media:
-    image: "/uploads/2019/08/05/troubleshooting-1.png"
-    alt_text: ''
-- template: 4-column-footer
-  block: footer-2
-  col_2: <img src="/uploads/2019/08/05/teva-1.png">
-  col_3: '<strong><img src="/uploads/2019/08/05/aigh.png"><br><br>Arnhold Institute
-    for Global Health</strong><br>Tel: 212-824-7950<br>arnholdInstitute@mssm.edu<br><br>1216
-    Fifth Avenue <br>Fifth Floor, Room 556 <br>New York, NY 10029'
-  image: "/uploads/2019/07/29/LOGO-TEMP.png"
-  col_4: ''
-- template: content-feature
-  block: feature-1
   media_alignment: Left
   headline: License
   content: '<strong>This code is available for free use under the terms of the </strong><a
@@ -113,6 +94,25 @@ page_sections:
   media:
     image: "/uploads/2019/08/05/copyleft.png"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Troubleshooting</strong>"
+  content: 'If you are having problems or have found a bug in the code, please raise
+    an issue on the Github page here: <a href="https://github.com/usnish/MCC_cluster_tool/issues"
+    title="https://github.com/usnish/MCC_cluster_tool/issues"><span style="text-decoration:
+    underline;">https://github.com/usnish/MCC_cluster_tool/issues</span></a>'
+  media:
+    image: "/uploads/2019/08/05/troubleshooting-1.png"
+    alt_text: ''
+- template: 4-column-footer
+  block: footer-2
+  col_2: <img src="/uploads/2019/08/05/teva-1.png">
+  col_3: '<strong><img src="/uploads/2019/08/05/aigh.png"><br><br>Arnhold Institute
+    for Global Health</strong><br>Tel: 212-824-7950<br>arnholdInstitute@mssm.edu<br><br>1216
+    Fifth Avenue <br>Fifth Floor, Room 556 <br>New York, NY 10029'
+  image: "/uploads/2019/08/05/copyleft-1.png"
+  col_4: ''
 
 ---
 foo bar
