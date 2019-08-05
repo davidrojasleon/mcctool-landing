@@ -55,12 +55,6 @@ page_sections:
   media:
     image: "/uploads/2019/08/05/questions-1.png"
     alt_text: FAQ
-- template: 1-column-text
-  block: one-column-1
-  headline: Usage / FAQ
-  content: "<strong>Introduction to Clusters:<br></strong>What is a cluster? <br>Why
-    utilize clusters?<br><br><strong>Generating Clusters:<br><br>Sorting Clusters:<br><br>Visualizing
-    Clusters:</strong>"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
@@ -82,7 +76,7 @@ page_sections:
     title="https://github.com/usnish/MCC_cluster_tool/issues"><span style="text-decoration:
     underline;">https://github.com/usnish/MCC_cluster_tool/issues</span></a>'
   media:
-    image: "/uploads/2019/07/29/apple-blue-background-close-up-1353366.jpg"
+    image: "/uploads/2019/08/05/troubleshooting.png"
     alt_text: ''
 - template: simple-footer
   block: footer-1
