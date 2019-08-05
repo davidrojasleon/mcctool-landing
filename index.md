@@ -53,7 +53,7 @@ page_sections:
     sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
     anim id est laborum."
   media:
-    image: "/uploads/2019/08/05/questions.png"
+    image: "/uploads/2019/08/05/questions-1.png"
     alt_text: FAQ
 - template: 1-column-text
   block: one-column-1
