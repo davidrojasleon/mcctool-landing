@@ -101,6 +101,15 @@ page_sections:
     Fifth Avenue <br>Fifth Floor, Room 556 <br>New York, NY 10029'
   image: "/uploads/2019/07/29/LOGO-TEMP.png"
   col_4: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Getting<strong> Started</strong>
+  content: If you have git you can$ git clone <a href="https://github.com/usnish/MCC_cluster_tool.git"
+    title="https://github.com/usnish/MCC_cluster_tool.git">https://github.com/usnish/MCC_cluster_tool.git</a>
+  media:
+    image: "/uploads/2019/08/05/packet.png"
+    alt_text: ''
 
 ---
 foo bar
