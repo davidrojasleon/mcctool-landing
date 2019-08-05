@@ -25,7 +25,7 @@ page_sections:
     with multiple chronic conditions.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://github.com/usnish/MCC_cluster_tool
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2019/07/29/HOME.png"
