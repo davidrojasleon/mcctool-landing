@@ -85,6 +85,17 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Troubleshooting</strong>"
+  content: 'If you are having problems or have found a bug in the code, please raise
+    an issue on the Github page here: <a href="https://github.com/usnish/MCC_cluster_tool/issues"
+    title="https://github.com/usnish/MCC_cluster_tool/issues"><span style="text-decoration:
+    underline;">https://github.com/usnish/MCC_cluster_tool/issues</span></a>'
+  media:
+    image: "/uploads/2019/07/29/apple-blue-background-close-up-1353366.jpg"
+    alt_text: ''
 
 ---
 foo bar
