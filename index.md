@@ -91,9 +91,11 @@ page_sections:
     the full text of the MCCTool license <a href="https://github.com/usnish/MCC_cluster_tool/blob/master/LICENSE">here</a>.</p>'
 - template: 4-column-footer
   block: footer-2
-  col_2: <img src="/uploads/2019/08/05/teva.png">
-  col_3: AIGH<img src="/uploads/2019/08/05/AIGH-logo-twitter-01.png">
-  image: "/uploads/2019/07/29/LOGO-TEMP.png"
+  col_2: <img src="/uploads/2019/08/05/teva-1.png">
+  col_3: '<strong><img src="/uploads/2019/08/05/aigh.png"><br><br>Arnhold Institute
+    for Global Health</strong><br>Tel: 212-824-7950<br>arnholdInstitute@mssm.edu<br><br>1216
+    Fifth Avenue <br>Fifth Floor, Room 556 <br>New York, NY 10029'
+  image: ''
   col_4: ''
 
 ---
