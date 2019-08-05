@@ -87,21 +87,6 @@ page_sections:
   media:
     image: "/uploads/2019/08/05/troubleshooting-1.png"
     alt_text: ''
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: License
-    content: ''
-  col_2:
-    headline: 'This code is available for free use under the terms of the GNU LGPLv3. '
-    content: 'Per Github: Permissions of this copyleft license are conditioned on
-      making available complete source code of licensed works and modifications under
-      the same license or the GNU GPLv3. Copyright and license notices must be preserved.
-      Contributors provide an express grant of patent rights. However, a larger work
-      using the licensed work through interfaces provided by the licensed work may
-      be distributed under different terms and without source code for the larger
-      work.<br><br>Read the full text of the MCCTool license <a href="https://github.com/usnish/MCC_cluster_tool/blob/master/LICENSE"><span
-      style="text-decoration: underline;">here</span></a>.'
 - template: 4-column-footer
   block: footer-2
   col_2: <img src="/uploads/2019/08/05/teva-1.png">
@@ -110,6 +95,24 @@ page_sections:
     Fifth Avenue <br>Fifth Floor, Room 556 <br>New York, NY 10029'
   image: "/uploads/2019/07/29/LOGO-TEMP.png"
   col_4: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: License
+  content: '<strong>This code is available for free use under the terms of the </strong><a
+    href="https://www.gnu.org/licenses/lgpl-3.0.en.html"><strong><span style="text-decoration:
+    underline;">GNU LGPLv3.</span></strong></a><span style="text-decoration: underline;"><br><br></span>Per
+    Github: Permissions of this copyleft license are conditioned on making available
+    complete source code of licensed works and modifications under the same license
+    or the GNU GPLv3. Copyright and license notices must be preserved. Contributors
+    provide an express grant of patent rights. However, a larger work using the licensed
+    work through interfaces provided by the licensed work may be distributed under
+    different terms and without source code for the larger work.<br><br>Read the full
+    text of the MCCTool license <a href="https://github.com/usnish/MCC_cluster_tool/blob/master/LICENSE"><span
+    style="text-decoration: underline;">here</span></a>.'
+  media:
+    image: "/uploads/2019/08/05/copyleft.png"
+    alt_text: ''
 
 ---
 foo bar
