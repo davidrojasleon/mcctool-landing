@@ -95,7 +95,7 @@ page_sections:
   col_3: '<strong><img src="/uploads/2019/08/05/aigh.png"><br><br>Arnhold Institute
     for Global Health</strong><br>Tel: 212-824-7950<br>arnholdInstitute@mssm.edu<br><br>1216
     Fifth Avenue <br>Fifth Floor, Room 556 <br>New York, NY 10029'
-  image: ''
+  image: "/uploads/2019/07/29/LOGO-TEMP.png"
   col_4: ''
 
 ---
