@@ -93,14 +93,6 @@ page_sections:
       be distributed under different terms and without source code for the larger
       work.<br><br>Read the full text of the MCCTool license <a href="https://github.com/usnish/MCC_cluster_tool/blob/master/LICENSE"><span
       style="text-decoration: underline;">here</span></a>.'
-- template: 4-column-footer
-  block: footer-2
-  col_2: <img src="/uploads/2019/08/05/teva-1.png">
-  col_3: '<strong><img src="/uploads/2019/08/05/aigh.png"><br><br>Arnhold Institute
-    for Global Health</strong><br>Tel: 212-824-7950<br>arnholdInstitute@mssm.edu<br><br>1216
-    Fifth Avenue <br>Fifth Floor, Room 556 <br>New York, NY 10029'
-  image: "/uploads/2019/07/29/LOGO-TEMP.png"
-  col_4: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -110,6 +102,14 @@ page_sections:
   media:
     image: "/uploads/2019/08/05/packet.png"
     alt_text: ''
+- template: 4-column-footer
+  block: footer-2
+  col_2: <img src="/uploads/2019/08/05/teva-1.png">
+  col_3: '<strong><img src="/uploads/2019/08/05/aigh.png"><br><br>Arnhold Institute
+    for Global Health</strong><br>Tel: 212-824-7950<br>arnholdInstitute@mssm.edu<br><br>1216
+    Fifth Avenue <br>Fifth Floor, Room 556 <br>New York, NY 10029'
+  image: "/uploads/2019/07/29/LOGO-TEMP.png"
+  col_4: ''
 
 ---
 foo bar
