@@ -39,7 +39,7 @@ page_sections:
   content: This package is built to run on Python 3.6.7.You will need the following
     additional libraries
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2019/08/05/resources.png"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
