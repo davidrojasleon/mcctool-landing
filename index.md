@@ -78,17 +78,14 @@ page_sections:
   media:
     image: "/uploads/2019/08/05/troubleshooting-1.png"
     alt_text: ''
-- template: detail-content
-  block: text-1
-  headline: License
-  content: '<p>This code is available for free use under the terms of the <a href="https://www.gnu.org/licenses/lgpl-3.0.en.html">GNU
-    LGPLv3.</a></p><p>Per Github: Permissions of this copyleft license are conditioned
-    on making available complete source code of licensed works and modifications under
-    the same license or the GNU GPLv3. Copyright and license notices must be preserved.
-    Contributors provide an express grant of patent rights. However, a larger work
-    using the licensed work through interfaces provided by the licensed work may be
-    distributed under different terms and without source code for the larger work.</p><p>Read
-    the full text of the MCCTool license <a href="https://github.com/usnish/MCC_cluster_tool/blob/master/LICENSE">here</a>.</p>'
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: License
+    content: ''
+  col_2:
+    headline: ''
+    content: ''
 - template: 4-column-footer
   block: footer-2
   col_2: <img src="/uploads/2019/08/05/teva-1.png">
