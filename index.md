@@ -80,7 +80,7 @@ page_sections:
     title="https://github.com/usnish/MCC_cluster_tool/issues"><span style="text-decoration:
     underline;">https://github.com/usnish/MCC_cluster_tool/issues</span></a>'
   media:
-    image: "/uploads/2019/08/05/troubleshooting.png"
+    image: "/uploads/2019/08/05/troubleshooting-1.png"
     alt_text: ''
 - template: simple-footer
   block: footer-1
