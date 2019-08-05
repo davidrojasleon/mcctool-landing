@@ -64,14 +64,11 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based theme that doubles as a builder
-    tool inside the Forestry content manager. It's easy to get started!</p><ol><li><p>Fork
-    the <a href="https://github.com/forestryio/ubuild-jekyll">repo</a> and import
-    the site into <a href="https://forestry.io/">Forestry</a> (or use <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks#even-quicker-start">our
-    magic button</a>).</p></li><li><p>Click on 'Add New' in Forestry and select the
-    Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
-    preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li></ol>
+  content: '<table><tbody><tr><td><br>seaborn==0.9.0<br>matplotlib==3.0.2<br>pandas==0.23.4<br>scipy==1.1.0<br>numpy==1.15.4</td></tr></tbody></table><p><br></p><p>You
+    can download the package at its GitHub here: <a href="https://github.com/usnish/MCC_cluster_tool"
+    title="https://github.com/usnish/MCC_cluster_tool">https://github.com/usnish/MCC_cluster_tool</a></p><p><br></p><p><strong>Getting
+    Started</strong></p><p>If you have git you can</p><table><tbody><tr><td>$ git
+    clone <a href="https://github.com/usnish/MCC_cluster_tool" title="https://github.com/usnish/MCC_cluster_tool">https://github.com/usnish/MCC_cluster_tool.git</a></td></tr></tbody></table>'
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
