@@ -59,14 +59,6 @@ page_sections:
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
-- template: detail-content
-  block: text-1
-  headline: Steps to Build a Site!
-  content: '<table><tbody><tr><td><br>seaborn==0.9.0<br>matplotlib==3.0.2<br>pandas==0.23.4<br>scipy==1.1.0<br>numpy==1.15.4</td></tr></tbody></table><p><br></p><p>You
-    can download the package at its GitHub here: <a href="https://github.com/usnish/MCC_cluster_tool"
-    title="https://github.com/usnish/MCC_cluster_tool">https://github.com/usnish/MCC_cluster_tool</a></p><p><br></p><p><strong>Getting
-    Started</strong></p><p>If you have git you can</p><table><tbody><tr><td>$ git
-    clone <a href="https://github.com/usnish/MCC_cluster_tool" title="https://github.com/usnish/MCC_cluster_tool">https://github.com/usnish/MCC_cluster_tool.git</a></td></tr></tbody></table>'
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -87,6 +79,18 @@ page_sections:
   col_3: AIGH
   image: ''
   col_4: ''
+- template: hero-banner-w-image
+  block: hero-2
+  image:
+    image: "/uploads/2018/06/21/forestry-symbol.svg"
+    alt_text: ''
+  headline: this is
+  content: a test
+  background_image: "/uploads/2019/07/29/apple-blue-background-close-up-1353366.jpg"
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
 foo bar
