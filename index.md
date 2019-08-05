@@ -98,6 +98,15 @@ page_sections:
   col_3: AIGH
   image: ''
   col_4: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: ''
+    content: "{{% tip %}} <br>seaborn==0.9.0<br>matplotlib==3.0.2<br>pandas==0.23.4<br>scipy==1.1.0<br>numpy==1.15.4<br>{{%
+      /tip %}}<br><br>"
+  col_2:
+    headline: ''
+    content: ''
 
 ---
 foo bar
