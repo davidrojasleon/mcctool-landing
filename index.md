@@ -50,20 +50,6 @@ page_sections:
   media:
     image: "/uploads/2019/08/05/packet.png"
     alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: "<strong>USAGE </strong>/ FAQ"
-  content: "<strong>Introduction to Clusters:<br></strong>What is a cluster? Why utilize
-    clusters?<br><br><strong>Generating Clusters:<br></strong>Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><strong><br>Sorting
-    Clusters:<br></strong>Duis aute irure dolor in reprehenderit in voluptate velit
-    esse cillum dolore eu fugiat nulla pariatur.<strong><br><br>Visualizing Clusters:<br></strong>Excepteur
-    sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-    anim id est laborum."
-  media:
-    image: "/uploads/2019/08/05/questions-1.png"
-    alt_text: FAQ
 - template: hero-banner-w-image
   block: hero-2
   image:
@@ -76,6 +62,20 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>USAGE </strong>/ FAQ"
+  content: "<strong>Introduction to Clusters:<br></strong>What is a cluster? Why utilize
+    clusters?<br><br><strong>Generating Clusters:<br></strong>Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><strong><br>Sorting
+    Clusters:<br></strong>Duis aute irure dolor in reprehenderit in voluptate velit
+    esse cillum dolore eu fugiat nulla pariatur.<strong><br><br>Visualizing Clusters:<br></strong>Excepteur
+    sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+    anim id est laborum."
+  media:
+    image: "/uploads/2019/08/05/questions-1.png"
+    alt_text: FAQ
 - template: content-feature
   block: feature-1
   media_alignment: Right
