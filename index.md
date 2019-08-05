@@ -44,10 +44,14 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: <strong>USAGE / FAQ</strong><span class="light"> </span>
+  content: "<strong>Introduction to Clusters:<br></strong>What is a cluster? Why utilize
+    clusters?<br><br><strong>Generating Clusters:<br></strong>Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><strong><br>Sorting
+    Clusters:<br></strong>Duis aute irure dolor in reprehenderit in voluptate velit
+    esse cillum dolore eu fugiat nulla pariatur.<strong><br><br>Visualizing Clusters:<br></strong>Excepteur
+    sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+    anim id est laborum."
   media:
     image: "/uploads/2019/08/05/questions.png"
     alt_text: FAQ
