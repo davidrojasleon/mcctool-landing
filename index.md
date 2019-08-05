@@ -72,6 +72,19 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: 1-column-text
+  block: one-column-1
+  content: 'This code is available for free use under the terms of the <a href="https://www.gnu.org/licenses/lgpl-3.0.en.html"><span
+    style="text-decoration: underline;">GNU LGPLv3.</span></a>Per Github: Permissions
+    of this copyleft license are conditioned on making available complete source code
+    of licensed works and modifications under the same license or the GNU GPLv3. Copyright
+    and license notices must be preserved. Contributors provide an express grant of
+    patent rights. However, a larger work using the licensed work through interfaces
+    provided by the licensed work may be distributed under different terms and without
+    source code for the larger work.<br><br>Read the full text of the MCCTool license
+    <a href="https://github.com/usnish/MCC_cluster_tool/blob/master/LICENSE"><span
+    style="text-decoration: underline;">here</span></a>.<br><br>'
+  headline: License
 
 ---
 foo bar
