@@ -69,9 +69,6 @@ page_sections:
     title="https://github.com/usnish/MCC_cluster_tool">https://github.com/usnish/MCC_cluster_tool</a></p><p><br></p><p><strong>Getting
     Started</strong></p><p>If you have git you can</p><table><tbody><tr><td>$ git
     clone <a href="https://github.com/usnish/MCC_cluster_tool" title="https://github.com/usnish/MCC_cluster_tool">https://github.com/usnish/MCC_cluster_tool.git</a></td></tr></tbody></table>'
-- template: simple-footer
-  block: footer-1
-  content: Hello world! ❤︎
 - template: 1-column-text
   block: one-column-1
   content: 'This code is available for free use under the terms of the <a href="https://www.gnu.org/licenses/lgpl-3.0.en.html"><span
@@ -85,6 +82,9 @@ page_sections:
     <a href="https://github.com/usnish/MCC_cluster_tool/blob/master/LICENSE"><span
     style="text-decoration: underline;">here</span></a>.<br><br>'
   headline: License
+- template: simple-footer
+  block: footer-1
+  content: Hello world! ❤︎
 
 ---
 foo bar
