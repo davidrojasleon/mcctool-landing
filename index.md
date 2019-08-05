@@ -102,8 +102,13 @@ page_sections:
   block: two-column-1
   col_1:
     headline: ''
-    content: "{{% tip %}} <br>seaborn==0.9.0<br>matplotlib==3.0.2<br>pandas==0.23.4<br>scipy==1.1.0<br>numpy==1.15.4<br>{{%
-      /tip %}}<br><br>"
+    content: <br> {{<span class="xml">&lt; highlight html &gt;</span>}} <span class="xml">&lt;section
+      id="main"&gt;</span> <span class="xml">&lt;div&gt;</span> <span class="xml">&lt;h1
+      id="title"&gt;</span>{{ .Title }}<span class="xml">&lt;/h1&gt;</span> <span
+      class="hljs-code">{{ range .Pages }}</span> <span class="hljs-code">{{ .Render
+      "summary"}}</span> <span class="hljs-code">{{ end }}</span> <span class="xml">&lt;/div&gt;</span>
+      <span class="xml">&lt;/section&gt;</span> {{<span class="xml">&lt; /highlight
+      &gt;</span>}}<br>
   col_2:
     headline: ''
     content: ''
