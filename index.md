@@ -44,7 +44,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>USAGE / FAQ</strong><span class="light"> </span>
+  headline: "<strong>USAGE </strong>/ FAQ"
   content: "<strong>Introduction to Clusters:<br></strong>What is a cluster? Why utilize
     clusters?<br><br><strong>Generating Clusters:<br></strong>Ut enim ad minim veniam,
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><strong><br>Sorting
