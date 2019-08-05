@@ -92,17 +92,9 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   col_2: TEVA
-  col_3: AIGH
+  col_3: AIGH<img src="/uploads/2019/08/05/AIGH-logo-twitter-01.png">
   image: "/uploads/2019/08/05/AIGH-logo-twitter-01.png"
   col_4: ''
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: ''
-    content: ''
-  col_2:
-    headline: ''
-    content: ''
 
 ---
 foo bar
