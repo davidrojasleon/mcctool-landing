@@ -59,6 +59,18 @@ page_sections:
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
+- template: hero-banner-w-image
+  block: hero-2
+  image:
+    image: "/uploads/2018/06/21/forestry-symbol.svg"
+    alt_text: ''
+  headline: this is
+  content: a test
+  background_image: "/uploads/2019/07/29/apple-blue-background-close-up-1353366.jpg"
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -79,18 +91,6 @@ page_sections:
   col_3: AIGH
   image: ''
   col_4: ''
-- template: hero-banner-w-image
-  block: hero-2
-  image:
-    image: "/uploads/2018/06/21/forestry-symbol.svg"
-    alt_text: ''
-  headline: this is
-  content: a test
-  background_image: "/uploads/2019/07/29/apple-blue-background-close-up-1353366.jpg"
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 
 ---
 foo bar
