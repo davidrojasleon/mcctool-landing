@@ -58,10 +58,10 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   image:
-    image: "/uploads/2018/06/21/forestry-symbol.svg"
+    image: "/uploads/2019/08/05/showcase.png"
     alt_text: ''
-  headline: this is
-  content: a test
+  headline: YOU <strong>CAN DO</strong> THIS
+  content: Using the library...
   background_image: "/uploads/2019/08/05/bg-2.png"
   cta:
     enabled: false
