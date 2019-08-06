@@ -18,10 +18,10 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: Multiple Chronic Conditions TOOL<br><strong>for analytics</strong>
+  headline: Multiple Chronic Conditions Tool<br><strong>for analytics</strong>
   content: The Multiple Chronic Conditions Tool is a library of python tools designed
     to help health system administrators, population health strategists, and health
-    services researchers explore patterms of co-morbidity and cost among patients
+    services researchers explore patterns of co-morbidity and cost among patients
     with multiple chronic conditions.
   cta:
     enabled: true
