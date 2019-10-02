@@ -18,11 +18,11 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: Multiple Chronic Conditions Tool<br><strong>for analytics</strong>
-  content: The Multiple Chronic Conditions Tool is a library of python tools designed
-    to help health system administrators, population health strategists, and health
-    services researchers explore patterns of co-morbidity and cost among patients
-    with multiple chronic conditions.
+  headline: Multiple Chronic Conditions Tool<br><strong>for population health analytics</strong>
+  content: The MCC Tool is a library of python tools designed to help health system
+    administrators, population health strategists, and health services researchers
+    explore patterns of co-morbidity and cost among patients with multiple chronic
+    conditions.
   cta:
     enabled: true
     url: https://github.com/usnish/MCC_cluster_tool
