@@ -66,13 +66,30 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: "<strong>USAGE </strong>/ FAQ"
-  content: "<strong>Introduction to Clusters:<br></strong>What is a cluster? Why utilize
-    clusters?<br><br><strong>Generating Clusters:<br></strong>Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><strong><br>Sorting
-    Clusters:<br></strong>Duis aute irure dolor in reprehenderit in voluptate velit
-    esse cillum dolore eu fugiat nulla pariatur.<strong><br><br>Visualizing Clusters:<br></strong>Excepteur
-    sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-    anim id est laborum."
+  content: '<strong>Introduction to This Tool<br></strong>Rates of multimorbidity
+    are rising globally. In the US, patients with multiple chronic conditions account
+    for an estimated 70% of all healthcare spending. In recent years, health systems
+    have responded to this increasing burden with financial (value-based financing,
+    care quality benchmarks) and clinical innovations (care coordination programs,
+    co-located specialty clinics). This tool was designed to help analysts and researchers
+    determine which segments of their populations who have multiple chronic conditions.
+    In addition, it can help sort health systems data by prevalence and attributed
+    spending of multiple chronic conditions. The key functionality of this tool lies
+    in defining, navigating, and sorting <strong>‘segments’ </strong>within a population.
+    Here we define ‘Segments’ as a group of patients defined by 1 or 2 chronic conditions,
+    an age group, and legal sex (‘M’ or ‘F’, as represented in insurance claims data).
+    These fields should all be available as part of most existing insurance claim
+    data sets.<br><br><strong>Generating Chronic Disease Categories<br></strong>We
+    have built this tool to be readily compatible with the ICD-9 diagnosis code: chronic
+    disease category mapping available from the <a href="https://www.hcup-us.ahrq.gov/toolssoftware/chronic/chronic.jsp"><span
+    style="text-decoration: underline;">Healthcare Cost and Utilization Project</span></a>.<br><br><strong>Generating
+    Segments:What format does my healthcare data need to be in?</strong>In order to
+    utilize this tool, you need to aggregate claims data by member-year. This means
+    that each row in your data should represent a single member in a single year of
+    utilization.<br><br><strong>How should I go about generating segments?<br></strong>Utilize
+    SampleSegmentation.ipynb with your existing data to generate a sample set of segments
+    and visualizations. Leave an issue on the github page or contact me at usnishm
+    at (g)mail dot com if you have any additional questions.'
   media:
     image: "/uploads/2019/08/05/questions-1.png"
     alt_text: FAQ
