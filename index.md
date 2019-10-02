@@ -110,9 +110,9 @@ page_sections:
   col_2: '<strong><img src="/uploads/2019/09/25/AIGH-logo.png"><br><br>Arnhold Institute
     for Global Health</strong><br>Tel: 212-824-7950<br>arnholdInstitute@mssm.edu<br><br>1216
     Fifth Avenue <br>Fifth Floor, Room 556 <br>New York, NY 10029'
-  col_3: Supported by<br><br><img src="/uploads/2019/08/05/teva-1.png">
+  col_3: ''
   image: "/uploads/2019/08/05/copyleft-1.png"
-  col_4: ''
+  col_4: Supported by<br><br><img src="/uploads/2019/08/05/teva-1.png">
 
 ---
 foo bar
