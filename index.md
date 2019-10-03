@@ -46,8 +46,8 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Getting<strong> Started</strong>
-  content: If you have git you can<br><br>$ git clone <a href="https://github.com/usnish/MCC_cluster_tool.git"
-    title="https://github.com/usnish/MCC_cluster_tool.git">https://github.com/usnish/MCC_cluster_tool.git</a>
+  content: If you have git you can<br><br><strong>$ git clone </strong><a href="https://github.com/usnish/MCC_cluster_tool.git"
+    title="https://github.com/usnish/MCC_cluster_tool.git"><strong>https://github.com/usnish/MCC_cluster_tool.git</strong></a>
   media:
     image: "/uploads/2019/08/05/packet.png"
     alt_text: ''
