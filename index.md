@@ -96,17 +96,6 @@ page_sections:
     alt_text: FAQ
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  headline: "<strong>Troubleshooting</strong>"
-  content: 'If you are having problems or have found a bug in the code, please raise
-    an issue on the Github page here: <a href="https://github.com/usnish/MCC_cluster_tool/issues"
-    title="https://github.com/usnish/MCC_cluster_tool/issues"><span style="text-decoration:
-    underline;">https://github.com/usnish/MCC_cluster_tool/issues</span></a>'
-  media:
-    image: "/uploads/2019/08/05/troubleshooting-1.png"
-    alt_text: ''
-- template: content-feature
-  block: feature-1
   media_alignment: Left
   headline: License
   content: '<strong>This code is available for free use under the terms of the </strong><a
@@ -122,6 +111,17 @@ page_sections:
     style="text-decoration: underline;">here</span></strong></a><strong>.</strong>'
   media:
     image: "/uploads/2019/08/05/copyleft.png"
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Troubleshooting</strong>"
+  content: 'If you are having problems or have found a bug in the code, please raise
+    an issue on the Github page here: <a href="https://github.com/usnish/MCC_cluster_tool/issues"
+    title="https://github.com/usnish/MCC_cluster_tool/issues"><span style="text-decoration:
+    underline;">https://github.com/usnish/MCC_cluster_tool/issues</span></a>'
+  media:
+    image: "/uploads/2019/08/05/troubleshooting-1.png"
     alt_text: ''
 - template: 4-column-footer
   block: footer-2
