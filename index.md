@@ -85,7 +85,7 @@ page_sections:
     SampleSegmentation.ipynb with your existing data to generate a sample set of segments
     and visualizations. Leave an issue on the github page or contact me at usnishm
     at (g)mail dot com if you have any additional questions.<br><br><strong>Citation:<br></strong><em>Manuscript
-    in Press.</em> BMC Open'
+    in Press.</em> <br>BMJ Open'
   media:
     image: "/uploads/2019/08/05/questions-1.png"
     alt_text: FAQ
