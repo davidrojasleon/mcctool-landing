@@ -38,9 +38,9 @@ page_sections:
     the tool</span>
   content: <strong>This package is built to run on Python 3.6.7.</strong><br><br>This
     package is built to run on Python 3.6.7. You will need the following additional
-    libraries (see &lt;tip&gt; requirements.txt &lt;/tip&gt;):<br><br><br>{{% tip
-    "Tip Title" %}} Tip Body {{% /tip %}}<br><br>{{% figure src="$FIGURE_SRC" alt="$FIGURE_ALT"
-    caption="$FIGURE_CAPTION" %}}
+    libraries (see &lt;tip&gt; requirements.txt &lt;/tip&gt;):<br><br><br>{{% youtube
+    "$<a href="https://youtu.be/j0unsm1eh0s" title="https://youtu.be/j0unsm1eh0s">https://youtu.be/j0unsm1eh0s</a>"
+    %}}
   media:
     image: "/uploads/2019/08/05/resources.png"
     alt_text: uBuild Blocks Mock-Up
