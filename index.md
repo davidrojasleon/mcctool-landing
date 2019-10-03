@@ -6,13 +6,7 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2019/07/29/LOGO-TEMP.png"
-  navigation:
-  - link: "/home"
-    link_text: Home
-  - link: "#"
-    link_text: Features
-  - link: "#"
-    link_text: Team
+  navigation: []
   cta:
     url: https://github.com/usnish/MCC_cluster_tool
     button_text: Download
