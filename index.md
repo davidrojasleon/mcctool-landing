@@ -36,9 +36,10 @@ page_sections:
   media_alignment: Left
   headline: <strong>Requirements<span class="light"> </span></strong><span class="light">for
     the tool</span>
-  content: "<strong>This package is built to run on Python 3.6.7.</strong><br><br>This
+  content: <strong>This package is built to run on Python 3.6.7.</strong><br><br>This
     package is built to run on Python 3.6.7. You will need the following additional
-    libraries (see requirements.txt):<br><br>seaborn==0.9.0<br>matplotlib==3.0.2<br>pandas==0.23.4<br>scipy==1.1.0<br>numpy==1.15.4"
+    libraries (see requirements.txt):<br><br>{{% pretty_screenshot img="/path/to-image"
+    alt="optional alt text" caption="optional caption" %}}<br>seaborn==0.9.0<br>matplotlib==3.0.2<br>pandas==0.23.4<br>scipy==1.1.0<br>numpy==1.15.4
   media:
     image: "/uploads/2019/08/05/resources.png"
     alt_text: uBuild Blocks Mock-Up
