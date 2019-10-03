@@ -56,7 +56,7 @@ page_sections:
   image:
     image: "/uploads/2019/08/05/showcase.png"
     alt_text: ''
-  headline: EXAMPLES SHOWCASE
+  headline: EXAMPLES <strong>SHOWCASE</strong>
   content: Coming soon
   background_image: "/uploads/2019/08/05/bg-2.png"
   cta:
