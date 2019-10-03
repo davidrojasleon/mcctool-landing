@@ -56,8 +56,8 @@ page_sections:
   image:
     image: "/uploads/2019/08/05/showcase.png"
     alt_text: ''
-  headline: YOU <strong>CAN DO</strong> THIS
-  content: Using the library...
+  headline: EXAMPLES SHOWCASE
+  content: Coming soon
   background_image: "/uploads/2019/08/05/bg-2.png"
   cta:
     enabled: false
