@@ -36,11 +36,9 @@ page_sections:
   media_alignment: Left
   headline: <strong>Requirements<span class="light"> </span></strong><span class="light">for
     the tool</span>
-  content: <strong>This package is built to run on Python 3.6.7.</strong><br><br>This
+  content: "<strong>This package is built to run on Python 3.6.7.</strong><br><br>This
     package is built to run on Python 3.6.7. You will need the following additional
-    libraries (see &lt;tip&gt; requirements.txt &lt;/tip&gt;):<br><br><br>{{% youtube
-    "$<a href="https://youtu.be/j0unsm1eh0s" title="https://youtu.be/j0unsm1eh0s">https://youtu.be/j0unsm1eh0s</a>"
-    %}}
+    libraries (see  <strong>requirements.txt</strong> ):<br><br><strong>seaborn==0.9.0<br>matplotlib==3.0.2<br>pandas==0.23.4<br>scipy==1.1.0<br>numpy==1.15.4</strong><br>"
   media:
     image: "/uploads/2019/08/05/resources.png"
     alt_text: uBuild Blocks Mock-Up
