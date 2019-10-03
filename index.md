@@ -38,7 +38,7 @@ page_sections:
     the tool</span>
   content: "<strong>This package is built to run on Python 3.6.7.</strong><br><br>This
     package is built to run on Python 3.6.7. You will need the following additional
-    libraries (see requirements.txt):<br><br>{{seaborn==0.9.0<br>matplotlib==3.0.2<br>pandas==0.23.4<br>scipy==1.1.0<br>numpy==1.15.4}}"
+    libraries (see requirements.txt):<br><br>seaborn==0.9.0<br>matplotlib==3.0.2<br>pandas==0.23.4<br>scipy==1.1.0<br>numpy==1.15.4"
   media:
     image: "/uploads/2019/08/05/resources.png"
     alt_text: uBuild Blocks Mock-Up
@@ -111,15 +111,15 @@ page_sections:
   headline: License
   content: '<strong>This code is available for free use under the terms of the </strong><a
     href="https://www.gnu.org/licenses/lgpl-3.0.en.html"><strong><span style="text-decoration:
-    underline;">GNU LGPLv3.</span></strong></a><span style="text-decoration: underline;"><br><br></span>Per
+    underline;">GNU LGPLv3.</span></strong></a><span style="text-decoration: underline;"><br></span>Per
     Github: Permissions of this copyleft license are conditioned on making available
     complete source code of licensed works and modifications under the same license
     or the GNU GPLv3. Copyright and license notices must be preserved. Contributors
     provide an express grant of patent rights. However, a larger work using the licensed
     work through interfaces provided by the licensed work may be distributed under
-    different terms and without source code for the larger work.<br><br>Read the full
-    text of the MCCTool license <a href="https://github.com/usnish/MCC_cluster_tool/blob/master/LICENSE"><span
-    style="text-decoration: underline;">here</span></a>.'
+    different terms and without source code for the larger work.<br><br><strong>Read
+    the full text of the MCCTool license </strong><a href="https://github.com/usnish/MCC_cluster_tool/blob/master/LICENSE"><strong><span
+    style="text-decoration: underline;">here</span></strong></a><strong>.</strong>'
   media:
     image: "/uploads/2019/08/05/copyleft.png"
     alt_text: ''
