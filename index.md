@@ -46,7 +46,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Getting<strong> Started</strong>
-  content: If you have git you can<br>$ git clone <a href="https://github.com/usnish/MCC_cluster_tool.git"
+  content: If you have git you can<br>&lt;small&gt;<br>$ git clone <a href="https://github.com/usnish/MCC_cluster_tool.git"
     title="https://github.com/usnish/MCC_cluster_tool.git">https://github.com/usnish/MCC_cluster_tool.git</a>
   media:
     image: "/uploads/2019/08/05/packet.png"
