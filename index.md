@@ -50,32 +50,35 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>USAGE </strong>/ FAQ"
-  content: '<strong>Introduction to This Tool<br></strong>Rates of multimorbidity
-    are rising globally. In the US, patients with multiple chronic conditions account
-    for an estimated 70% of all healthcare spending. In recent years, health systems
-    have responded to this increasing burden with financial (value-based financing,
-    care quality benchmarks) and clinical innovations (care coordination programs,
-    co-located specialty clinics). This tool was designed to help analysts and researchers
-    determine which segments of their populations who have multiple chronic conditions.
-    In addition, it can help sort health systems data by prevalence and attributed
-    spending of multiple chronic conditions. The key functionality of this tool lies
-    in defining, navigating, and sorting <strong>‘segments’ </strong>within a population.
-    Here we define ‘Segments’ as a group of patients defined by 1 or 2 chronic conditions,
-    an age group, and legal sex (‘M’ or ‘F’, as represented in insurance claims data).
-    These fields should all be available as part of most existing insurance claim
-    data sets.<br><br><strong>Generating Chronic Disease Categories<br></strong>We
-    have built this tool to be readily compatible with the ICD-9 diagnosis code: chronic
-    disease category mapping available from the <a href="https://www.hcup-us.ahrq.gov/toolssoftware/chronic/chronic.jsp"><span
-    style="text-decoration: underline;">Healthcare Cost and Utilization Project</span></a>.<br><br><strong>Generating
-    Segments:What format does my healthcare data need to be in?</strong>In order to
-    utilize this tool, you need to aggregate claims data by member-year. This means
-    that each row in your data should represent a single member in a single year of
-    utilization.<br><br><strong>How should I go about generating segments?<br></strong>Utilize
-    SampleSegmentation.ipynb with your existing data to generate a sample set of segments
-    and visualizations. Leave an issue on the github page or contact me at usnishm
-    at (g)mail dot com if you have any additional questions.<br><br><strong>Citation:<br></strong><em>Manuscript
-    in Press.</em> <br>BMJ Open'
+  headline: "<strong>About </strong>the MCC Tool"
+  content: '<strong>Multiple Chronic Conditions<br></strong>Rates of multimorbidity
+    are rising globally. Overall, 42% of adults have multiple chronic conditions (MCC);
+    that number rises to over 80% of those over 65 years of age. In the United States,
+    patients with multiple chronic conditions account for an estimated 70% of all
+    healthcare spending. Health systems have responded to this increasing burden by
+    implementing financial and clinical innovations to improve quality and keep costs
+    under control.Gaps in what is known about the global MCC burden persist. For example,
+    much of what is studied focuses on older adults, while there has been less research
+    on younger adults and those who live in low- and middle-income countries. In addition,
+    while there is some evidence regarding the most common clusters of chronic conditions
+    in a given area, less is known about the myriad ways multimorbidity can occur
+    in a patient or group of patients.<br><br><strong>The MCC Tool<span style="text-decoration:
+    underline;"><br></span></strong>A standard methodology to evaluate the prevalence
+    and associated costs of patients with multiple chronic conditions could be beneficial
+    to health systems, researchers, and governments as they implement new care models
+    and financial incentives to achieve quality and cost goals. We designed a tool
+    to help determine which segments of a given population have specific multiple
+    chronic conditions. The main purpose is to provide health systems analysts with
+    a simple descriptive method that can be applied to any population for whom medical
+    claims data are available. Importantly, this tool allows the exploration of multimorbidity
+    without any assumptions (i.e. that may come from more complex statistical or machine
+    learning techniques) or demographic limitations.In addition, it can help sort
+    health systems data by prevalence and attributed spending of multiple chronic
+    conditions. The key functionality of this tool lies in defining, navigating, and
+    sorting <strong>‘segments’ </strong>within a population. Here we define ‘Segments’
+    as a group of patients defined by 1 or 2 chronic conditions, an age group, and
+    legal sex (‘M’ or ‘F’, as represented in insurance claims data). These fields
+    are commonly found in existing insurance claim data sets.'
   media:
     image: "/uploads/2019/08/05/questions-1.png"
     alt_text: FAQ
