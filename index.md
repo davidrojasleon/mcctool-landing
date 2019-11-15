@@ -30,26 +30,6 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Requirements<span class="light"> </span></strong><span class="light">for
-    the tool</span>
-  content: "<strong>This package is built to run on Python 3.6.7.</strong><br><br>This
-    package is built to run on Python 3.6.7. You will need the following additional
-    libraries (see  <strong>requirements.txt</strong> ):<br><br><strong>seaborn==0.9.0<br>matplotlib==3.0.2<br>pandas==0.23.4<br>scipy==1.1.0<br>numpy==1.15.4</strong><br>"
-  media:
-    image: "/uploads/2019/08/05/resources.png"
-    alt_text: uBuild Blocks Mock-Up
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Getting<strong> Started</strong>
-  content: If you have git you can<br><br><strong>$ git clone </strong><a href="https://github.com/usnish/MCC_cluster_tool.git"
-    title="https://github.com/usnish/MCC_cluster_tool.git"><strong>https://github.com/usnish/MCC_cluster_tool.git</strong></a>
-  media:
-    image: "/uploads/2019/08/05/packet.png"
-    alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
   headline: "<strong>About </strong>the MCC Tool"
   content: '<strong>Multiple Chronic Conditions<br></strong>Rates of multimorbidity
     are rising globally. Overall, 42% of adults have multiple chronic conditions (MCC);
@@ -82,6 +62,26 @@ page_sections:
   media:
     image: "/uploads/2019/08/05/questions-1.png"
     alt_text: FAQ
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: <strong>Requirements<span class="light"> </span></strong><span class="light">for
+    the tool</span>
+  content: "<strong>This package is built to run on Python 3.6.7.</strong><br><br>This
+    package is built to run on Python 3.6.7. You will need the following additional
+    libraries (see  <strong>requirements.txt</strong> ):<br><br><strong>seaborn==0.9.0<br>matplotlib==3.0.2<br>pandas==0.23.4<br>scipy==1.1.0<br>numpy==1.15.4</strong><br>"
+  media:
+    image: "/uploads/2019/08/05/resources.png"
+    alt_text: uBuild Blocks Mock-Up
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Getting<strong> Started</strong>
+  content: If you have git you can<br><br><strong>$ git clone </strong><a href="https://github.com/usnish/MCC_cluster_tool.git"
+    title="https://github.com/usnish/MCC_cluster_tool.git"><strong>https://github.com/usnish/MCC_cluster_tool.git</strong></a>
+  media:
+    image: "/uploads/2019/08/05/packet.png"
+    alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
