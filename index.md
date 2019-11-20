@@ -106,17 +106,23 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: License
-  content: '<strong>This code is available for free use under the terms of the </strong><a
-    href="https://www.gnu.org/licenses/lgpl-3.0.en.html"><strong><span style="text-decoration:
-    underline;">GNU LGPLv3.</span></strong></a><span style="text-decoration: underline;"><br></span>Per
-    Github: Permissions of this copyleft license are conditioned on making available
-    complete source code of licensed works and modifications under the same license
-    or the GNU GPLv3. Copyright and license notices must be preserved. Contributors
-    provide an express grant of patent rights. However, a larger work using the licensed
-    work through interfaces provided by the licensed work may be distributed under
-    different terms and without source code for the larger work.<br><br><strong>Read
-    the full text of the MCCTool license </strong><a href="https://github.com/usnish/MCC_cluster_tool/blob/master/LICENSE"><strong><span
-    style="text-decoration: underline;">here</span></strong></a><strong>.</strong>'
+  content: 'This code is available for free use under the terms of the <a href="https://www.gnu.org/licenses/lgpl-3.0.en.html"><span
+    style="text-decoration: underline;">GNU LGPLv3.</span></a>Per Github: Permissions
+    of this copyleft license are conditioned on making available complete source code
+    of licensed works and modifications under the same license or the GNU GPLv3. Copyright
+    and license notices must be preserved. Contributors provide an express grant of
+    patent rights. However, a larger work using the licensed work through interfaces
+    provided by the licensed work may be distributed under different terms and without
+    source code for the larger work.<br><br>Read the full text of the MCCTool license
+    <a href="https://github.com/usnish/MCC_cluster_tool/blob/master/LICENSE"><span
+    style="text-decoration: underline;">here</span></a>.<br><br><strong>References:<br></strong>Majumdar
+    UB, Hunt C, Doupe P, et al.<em> </em>Multiple chronic conditions at a major urban
+    health system: a retrospective cross-sectional analysis of frequencies, costs
+    and comorbidity patterns. <em>BMJ Open </em>2019;9:e029340. doi: 10.1136/bmjopen-2019-029340<br><br>Hajat
+    C, Kishore SP. The case for a global focus on multiple chronic conditions. <em>BMJ
+    Global Health </em>2018;<strong>3:</strong>e000874.<br><br>The Academy of Medical
+    Sciences. (2018). <em>Multimorbidity: a priority for global health research. </em>Retrieved
+    from <a href="https://acmedsci.ac.uk/file-download/82222577" title="https://acmedsci.ac.uk/file-download/82222577">https://acmedsci.ac.uk/file-download/82222577</a>)'
   media:
     image: "/uploads/2019/08/05/copyleft.png"
     alt_text: ''
