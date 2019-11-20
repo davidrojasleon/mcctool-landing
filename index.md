@@ -7,8 +7,16 @@ page_sections:
   block: header-2
   logo: "/uploads/2019/07/29/LOGO-TEMP.png"
   navigation:
-  - link: ''
-    link_text: ''
+  - link: "#"
+    link_text: Home
+  - link_text: About the MCC Tool
+    link: "#"
+  - link: "#"
+    link_text: How to Use the Tool
+  - link: "#"
+    link_text: Examples Showcase
+  - link: "#"
+    link_text: FAQ
   cta:
     url: https://github.com/usnish/MCC_cluster_tool
     button_text: Download
