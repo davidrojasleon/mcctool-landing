@@ -81,6 +81,18 @@ page_sections:
   media:
     image: "/uploads/2019/08/05/resources.png"
     alt_text: uBuild Blocks Mock-Up
+- template: hero-banner-w-image
+  block: hero-2
+  image:
+    image: "/uploads/2019/08/05/showcase.png"
+    alt_text: ''
+  headline: EXAMPLES <strong>SHOWCASE</strong>
+  content: Coming soon
+  background_image: "/uploads/2019/08/05/bg-2.png"
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -119,18 +131,6 @@ page_sections:
   media:
     image: "/uploads/2019/08/05/troubleshooting-1.png"
     alt_text: ''
-- template: hero-banner-w-image
-  block: hero-2
-  image:
-    image: "/uploads/2019/08/05/showcase.png"
-    alt_text: ''
-  headline: EXAMPLES <strong>SHOWCASE</strong>
-  content: Coming soon
-  background_image: "/uploads/2019/08/05/bg-2.png"
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: 4-column-footer
   block: footer-2
   col_2: '<strong><img src="/uploads/2019/09/25/AIGH-logo.png"><br><br>Arnhold Institute
