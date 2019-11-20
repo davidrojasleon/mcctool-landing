@@ -81,6 +81,15 @@ page_sections:
   media:
     image: "/uploads/2019/08/05/resources.png"
     alt_text: uBuild Blocks Mock-Up
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Getting<strong> Started</strong>
+  content: If you have git you can<br><br><strong>$ git clone </strong><a href="https://github.com/usnish/MCC_cluster_tool.git"
+    title="https://github.com/usnish/MCC_cluster_tool.git"><strong>https://github.com/usnish/MCC_cluster_tool.git</strong></a>
+  media:
+    image: "/uploads/2019/08/05/packet.png"
+    alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
   image:
@@ -93,15 +102,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Getting<strong> Started</strong>
-  content: If you have git you can<br><br><strong>$ git clone </strong><a href="https://github.com/usnish/MCC_cluster_tool.git"
-    title="https://github.com/usnish/MCC_cluster_tool.git"><strong>https://github.com/usnish/MCC_cluster_tool.git</strong></a>
-  media:
-    image: "/uploads/2019/08/05/packet.png"
-    alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
