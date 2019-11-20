@@ -129,9 +129,31 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>Troubleshooting</strong>"
-  content: 'If you are having problems or have found a bug in the code, please raise
-    an issue on the Github page here: <a href="https://github.com/usnish/MCC_cluster_tool/issues"
+  headline: "<strong>FAQ</strong>"
+  content: '<strong>How do I generate chronic disease categories for this tool?<br></strong>We
+    have built this tool to be readily compatible with the ICD-9 diagnosis code: chronic
+    disease category mapping available from the <a href="https://www.hcup-us.ahrq.gov/toolssoftware/chronic/chronic.jsp"><span
+    style="text-decoration: underline;">Healthcare Cost and Utilization Project</span></a>.
+    What does this mean? If you have data that attributes an <a href="https://www.cdc.gov/nchs/icd/icd9cm.htm"
+    title="">ICD-9 diagnosis code</a> to patients, you can group similar diagnoses
+    together into a broader chronic disease category. For example, diagnosis code
+    250.52 (“Diabetes with ophthalmic manifestations, type II or unspecified type,
+    uncontrolled”) and 250.00 (“Diabetes mellitus without mention of complication,
+    type II or unspecified type, not stated as uncontrolled”) would be grouped together
+    into the chronic disease category ‘Type II Diabetes Mellitus’.<br><br><strong>What
+    format does my healthcare data need to be in? <br></strong>In order to utilize
+    this tool, you need to aggregate claims data by member-year. This means that each
+    row in your data should represent a single member in a single year of utilization.
+    If you are working with a different type of healthcare data (from an Electronic
+    Health Record system, or an epidemiologic survey), you would want each row of
+    your data to represent a unique individual in a given year. The below table gives
+    a simplistic overview of what this could look like:<br><br>TABLE HERE<br><br><strong>How
+    should I go about generating segments?<br></strong>Utilize SampleSegmentation.ipynb
+    with your existing data to generate a sample set of segments and visualizations.
+    Leave an issue on the github page or contact <strong>usnishm@gmail.com</strong>
+    if you have any additional questions.<br><br><strong>What should I do if I have
+    problems?<br></strong>If you are having problems or have found a bug in the code,
+    please raise an issue on the Github page here: <a href="https://github.com/usnish/MCC_cluster_tool/issues"
     title="https://github.com/usnish/MCC_cluster_tool/issues"><span style="text-decoration:
     underline;">https://github.com/usnish/MCC_cluster_tool/issues</span></a>'
   media:
