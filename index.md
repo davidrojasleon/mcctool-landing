@@ -52,8 +52,8 @@ page_sections:
     a simple descriptive method that can be applied to any population for whom medical
     claims data are available. Importantly, this tool allows the exploration of multimorbidity
     without any assumptions (i.e. that may come from more complex statistical or machine
-    learning techniques) or demographic limitations.In addition, it can help sort
-    health systems data by prevalence and attributed spending of multiple chronic
+    learning techniques) or demographic limitations.<br><br>In addition, it can help
+    sort health systems data by prevalence and attributed spending of multiple chronic
     conditions. The key functionality of this tool lies in defining, navigating, and
     sorting <strong>‘segments’ </strong>within a population. Here we define ‘Segments’
     as a group of patients defined by 1 or 2 chronic conditions, an age group, and
