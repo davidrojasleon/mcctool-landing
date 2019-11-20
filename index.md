@@ -67,9 +67,17 @@ page_sections:
   media_alignment: Right
   headline: <strong>Requirements<span class="light"> </span></strong><span class="light">for
     the tool</span>
-  content: "<strong>This package is built to run on Python 3.6.7.</strong><br><br>This
-    package is built to run on Python 3.6.7. You will need the following additional
-    libraries (see  <strong>requirements.txt</strong> ):<br><br><strong>seaborn==0.9.0<br>matplotlib==3.0.2<br>pandas==0.23.4<br>scipy==1.1.0<br>numpy==1.15.4</strong><br>"
+  content: '<strong>This package is built to run on Python 3.6.7.</strong><br><br>The
+    requirements to use this tool are:<br><br>A health insurance claims data set (or
+    equivalent healthcare dataset -- whether from an Electronic Health Record or epidemiologic
+    survey) made with the International Classification of Diseases version 9 (ICD-9)
+    with at least the following variables, aggregated by member-year:<br><br>Age<br>Gender<br>Location<br>Chronic
+    condition codes<br>Total cost of care<br>Python language software package is built
+    to run on Python 3.6.7.<br><br>These additional libraries (for more information,
+    see requirements.txt):<br><br><strong>seaborn==0.9.0<br>matplotlib==3.0.2<br>pandas==0.23.4<br>scipy==1.1.0<br>numpy==1.15.4<br><br></strong>You
+    can download the package at its GitHub here: <a href="https://github.com/usnish/MCC_cluster_tool"
+    title="https://github.com/usnish/MCC_cluster_tool"><span style="text-decoration:
+    underline;">https://github.com/usnish/MCC_cluster_tool</span></a><br><br><br>'
   media:
     image: "/uploads/2019/08/05/resources.png"
     alt_text: uBuild Blocks Mock-Up
